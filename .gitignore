@@ -1,0 +1,11 @@
+input_signal.txt
+dft_results.txt
+*.pdf
+*.png
+*.zip
+.ipynb_checkpoints/
+Doxyfile
+*.dox
+dft_idft
+dft_numpy
+dft_random
